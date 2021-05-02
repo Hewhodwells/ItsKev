@@ -24,7 +24,6 @@ In my spare time, I try to learn as many different things as possible with a str
 
 
 ## Good to know  
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Ogenon Labs ](https://github.com/ogenon)  
   
@@ -32,17 +31,8 @@ In my spare time, I try to learn as many different things as possible with a str
 - 🌱 I’m currently learning Ansible and Kubernetes  
   
 
-- ❓ Ask me anything about Minecraft development and Minecraft in general  
+- ❓ Ask me anything Minecraft related
 
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -73,15 +63,8 @@ In my spare time, I try to learn as many different things as possible with a str
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=itskev&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
