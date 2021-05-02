@@ -72,7 +72,7 @@ In my spare time, I try to learn as many different things as possible with a str
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=itskev&&style=flat-square)  
+<div align="center"><img src="https://komarev.com/ghpvc/?username=itskev&&style=flat-square" align="center" style="width: 100%"/></div>
   
 
 <br/>  
