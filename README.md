@@ -6,7 +6,7 @@
 ### <div align="center">I'm Kev, a backend developer and DevOps engineer 👨‍💻 </div>  
   
 
-- 🔭   I’m currently working for a small company in Switzerland and [Minecraft Legend](https://github.com/playlegend/) in my spare time  
+- 🔭   I’m currently working for a small company in Switzerland and a small Minecraft project in my spare time  
   
 
 - 🌱  I’m currently learning Azure DevOps and Kubernetes  
