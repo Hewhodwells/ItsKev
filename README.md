@@ -64,21 +64,15 @@ In my spare time, I try to learn as many different things as possible with a str
 
 ## Github Stats  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=itskev&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=itskev&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" /></div>
 
 <br/>  
 
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=itskev&&style=flat-square" align="center" style="width: 12%"/></div>
   
 
 <br/>  
-
-<div align="center"><img src="https://komarev.com/ghpvc/?username=itskev&&style=flat-square" align="center" style="width: 100%"/></div>
-  
-
-<br/>  
-
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
