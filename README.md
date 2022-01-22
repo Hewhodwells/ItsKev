@@ -25,13 +25,13 @@ In my spare time, I try to learn as many different things as possible with a str
 
 ## Good to know  
 
-- 🔭 I’m currently working on [Kryonite Labs](https://github.com/kryonitelabs)  
+- 🔭 I’m currently working on [Kryonite](https://github.com/kryoniteorg)  
   
 
 - 🌱 I’m currently learning Azure and Kubernetes  
   
 
-- ❓ Ask me anything Minecraft related
+- ❓ Ask me anything Kubernetes, Java and Minecraft related
 
 
 <br/>  
