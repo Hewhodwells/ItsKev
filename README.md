@@ -20,18 +20,7 @@ In my spare time, I try to learn as many different things as possible with a str
 \- Albert Einstein  
   
 
-<br/>  
-
-
-## Good to know  
-
-- 🔭 I’m currently working on [Kryonite](https://github.com/kryoniteorg)  
-  
-
-- 🌱 I’m currently learning Azure and Kubernetes  
-  
-
-- ❓ Ask me anything Kubernetes, Java and Minecraft related
+<br/>
 
 
 <br/>  
